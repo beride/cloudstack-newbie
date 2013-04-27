@@ -32,6 +32,7 @@ cloudstack-newbie
 * 实例HA
 * 实例快照
 * 快照恢复
+
 ## 3.4、域的使用
 ## 3.5、项目的使用
 # 四、cloudstack存储
