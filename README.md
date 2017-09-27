@@ -2,7 +2,10 @@ cloudstack-newbie
 =================
 
 &lt;&lt;Apache CloudStack初学者入门&gt;&gt;  计划资源联络
+
+
 本书已出版《Cloudstack入门指南》 
+
 《Cloudstack入门指南》是国内 本系统介绍CloudStack 专业书籍。
 《Cloudstack入门指南》从历史发展、架构设计、安装配置、基本功能、开发入门等角度对CloudStack 进行了全面的介绍。作为云计算IaaS 平台，尽管CloudStack 安装非常简单，但其规划和安装对保证CloudStack系统稳定运行而言至关重要，很多用户正是在此部分遇到了大量问题，所以本书在安装部分下了较大笔墨，规划了一个简单、通用的场景，并对实际配置过程进行了详细介绍。
 《Cloudstack入门指南》以深入浅出的方式介绍了CloudStack，能够为计划使用IaaS 将现有IT 设施迁移到云上的公司、数据中心及系统集成行业的相关人员进行系统选型和对比提供帮助。对于那些对CloudStack 没有深入了解及在安装和使用上遇到困难的技术工程师、售前及售后支持工程师、学生等人员，《Cloudstack入门指南》能够为他们学习正确的CloudStack 安装和使用步骤，以及对CloudStack 进行全面、系统的认识提供帮助。
